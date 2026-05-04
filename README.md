@@ -8,7 +8,7 @@ A Flutter tech news app that delivers curated stories from two sources — a hos
 
 | Feed | AI Brief |
 |------|----------|
-| ![Feed Screen](screenshots/feed.png) | ![AI Brief Screen](screenshots/ai_brief.png) |
+| ![Feed Screen](https://github.com/hanzalahcmd/smd_briedfly/blob/main/Screenshot_20260504_062107.jpg) | ![AI Brief Screen](https://github.com/hanzalahcmd/smd_briedfly/blob/main/Screenshot_20260504_062114.jpg) |
 
 > Add your screenshots to a `screenshots/` folder in the project root and update the paths above.
 
